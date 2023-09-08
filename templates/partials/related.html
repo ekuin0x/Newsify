@@ -1,0 +1,11 @@
+<header>RELATED</header>
+{% for rel in related[0:10] %}
+    {% if rel["topic"] == topic %}
+    <a href="/articles/{{rel["id"]}}">
+        <div class="r">
+            <img src="{{rel["img"]}}" alt="related">
+            <p>{{rel["title"]}}</p>
+        </div>
+    </a>
+    {% endif %}
+{% endfor %}

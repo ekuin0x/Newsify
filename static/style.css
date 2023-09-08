@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    position: relative;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+#mainad{
+    width: 90%;
+    height: 130px;
+    margin: 10px 5%;
+}
+
+#mainad img{
+    width: 100%;
+    height: 100%;
+}
+
+#wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    padding: 15px 15px 40px 15px;
+}
+
+#main{
+    width: 100% ;
+}
+
+#main a{
+    color :black !important
+}
+
+#title{
+    padding: 10px 0px; 
+    line-height: 32px;
+    font-size: 22px;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+}
+
+#meta{
+    display: flex;
+    flex-direction: row; 
+}
+#meta i{
+    margin: 0 20px;
+}
+
+#main img{
+    margin: 15px 0;
+    width: 100%;
+    height: 60vw;
+}
+
+#content{
+    width: 100% ;
+    padding: 10px 15px;
+    line-height: 28px;
+}
+
+
+#related{
+    width: 100%;
+    padding: 20px 10px;
+}
+
+#related header{
+    width: 100%;
+    padding: 8px 0;
+    text-align: center;
+    background-color: rgb(28, 28, 28);
+    color :white
+}
+
+#related a{
+    color: black !important;
+}
+
+#related .r{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(231, 231, 231);
+    padding: 7px;
+    margin: 10px 0;
+}
+.r img{
+    width: 120px;
+    height: 100%;
+} 
+.r p{
+    padding: 5px 8px;
+    font-size: 15px;
+} 

@@ -1,0 +1,10 @@
+<div id="related">
+  {% for rel in related[0:10] %}
+    <a href="/articles/{{rel["id"]}}">
+      <div class="r">
+          <img src="{{rel["img"]}}" alt="related">
+          <p>{{rel["title"]}}</p>
+      </div>
+    </a>
+  {% endfor %}
+</div>
