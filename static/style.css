@@ -31,7 +31,7 @@ a{
     display: flex;
     flex-direction: column;
     width: 100vw ;
-    padding: 15px 15px 40px 15px;
+    padding: 10px 15px 40px 15px;
 
 }
 #main{
@@ -72,7 +72,7 @@ a{
 
 
 #related{
-    width: 100%;
+    width: 100% ;
     padding: 20px 10px;
 }
 
@@ -88,12 +88,14 @@ a{
     color: black !important;
 }
 
-#related .r{
+.r{
     width: 100%;
-    height: 120px;
+    min-width: 340px;
+    height: 130px;
     display: flex;
     flex-direction: row;
     background-color: rgb(231, 231, 231);
+    color: black !important;
     padding: 7px;
     margin: 10px 0;
 }
@@ -106,6 +108,14 @@ a{
     font-size: 15px;
 } 
 
+#search{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
 @media screen and (min-width : 760px){
     #wrapper{
         display: flex;
@@ -113,8 +123,8 @@ a{
     }
 
     #mainad{
-        width: 600px;
-        height: 150px;
+        width: 570px;
+        height: 170px;
         margin: 10px auto;
     }
 
@@ -122,6 +132,7 @@ a{
         padding: 0px 15px;
         display: flex;
         flex-direction: column;
+        width: 100%;
     }
     #main img{
         padding: 0;
@@ -130,12 +141,22 @@ a{
     }
 
     #related{
-        width: 40%
-
+        width: 40%;
     }
 
     #content{
         line-height: 32px;
     }
 
+    #search{
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin: auto;
+    }
+    #search .r {
+        margin: 5px;
+        width: 400px;
+        padding: 25px;
+        overflow: hidden;
+    }
 }

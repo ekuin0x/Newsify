@@ -18,7 +18,11 @@ def head() :
 def related(topic) :
     with open("data.json", 'r') as file :
         data = json.load(file)
-    return render_template('partials/related.html', related = data, topic = topic)
+        rel = []
+        for x in data :
+            if topic == x["topic"] :
+                rel.append(x)
+    return render_template('partials/related.html', related = rel, topic = topic)
 
 
 @app.route('/search/<query>')
