@@ -2,6 +2,7 @@
     const res0 = await fetch('/head')
     const head = await res0.text()
     $("head").append(head) 
+    alert(head)
 
     const q = $("#q").attr("name")
     url = `/related/${q}`
