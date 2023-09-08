@@ -91,13 +91,13 @@ a{
 .r{
     width: 100%;
     min-width: 340px;
-    height: 130px;
+    height: 150px;
     display: flex;
     flex-direction: row;
     background-color: rgb(231, 231, 231);
     color: black !important;
     padding: 7px;
-    margin: 10px 0;
+    margin: 12px 0;
 }
 .r img{
     width: 120px;
@@ -105,7 +105,7 @@ a{
 } 
 .r p{
     padding: 5px 8px;
-    font-size: 15px;
+    font-size: 13px;
 } 
 
 #search{
