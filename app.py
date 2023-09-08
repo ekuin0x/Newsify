@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index() :
-    return render_template("index.html")
+    return send_file("articles/6309613.html")
 
 @app.route('/head')
 def head() :
