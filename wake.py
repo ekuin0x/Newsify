@@ -4,7 +4,7 @@ import time
 
 def wake() : 
     res = requests.get("https://newzone.onrender.com")
-    print(res.text)
+    print(res)
 
 
 sc.every(8).minutes.do(wake)

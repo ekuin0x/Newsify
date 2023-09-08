@@ -90,8 +90,8 @@ a{
 
 .r{
     width: 100%;
-    min-width: 340px;
-    height: 150px;
+    min-width: 320px;
+    height: 135px;
     display: flex;
     flex-direction: row;
     background-color: rgb(231, 231, 231);
@@ -113,6 +113,7 @@ a{
     padding: 10px;
     display: flex;
     flex-direction: column;
+    justify-content: space-aroundc;
 
 }
 
