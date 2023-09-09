@@ -7,7 +7,7 @@ def wake() :
     print(res)
 
 
-sc.every(8).minutes.do(wake)
+sc.every(10).minutes.do(wake)
 
 while True:
     sc.run_pending()
