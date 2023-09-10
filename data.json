@@ -1,740 +1,188 @@
 [
     {
-        "id": 1543686,
-        "topic": "economic",
-        "title": "Why do financial group leaders purchase treasury stocks?",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/25813e326c9a4539b2b19805178b60ae.jpg"
+        "id": 3325346,
+        "topic": "India",
+        "title": "G20 Summit 2023: PM Modi calls for moving on from global village to 'global family'",
+        "img": "https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/09/Modi-ka-bhasan.jpg"
     },
     {
-        "id": 2101944,
-        "topic": "economic",
-        "title": "35 strategic partners will contribute to shaping \u2018future wealthmap\u2019 at International Government Communication Forum 2023",
-        "img": "https://2.gravatar.com/avatar/8cf576a7747fe7b37bd632f279fa3bc8f461c8fabecbc279bd79160e7a06a7bc?s=96&d=identicon&r=G"
+        "id": 3681973,
+        "topic": "India",
+        "title": "G20 Summit 2023: France Prez Macron calls for 'deep reform of global governance'",
+        "img": "https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/09/Screenshot-2023-09-10-at-3.38.12.jpg"
     },
     {
-        "id": 7564870,
+        "id": 6852433,
+        "topic": "India",
+        "title": "Anthony Albanese pushes to finalise EU trade deal by end of year during talks on sidelines of G20",
+        "img": "https://i.guim.co.uk/img/media/602bf1ceaeb77337979640d3046ba797f70b6940/0_74_5878_3527/master/5878.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8f3dd8a9e72884727f52e87cd95abc5"
+    },
+    {
+        "id": 7326217,
+        "topic": "Google",
+        "title": "Elon is 'rude, mean' but his superpowers helped OpenAI, says Sam Altman on Musk's exit",
+        "img": "https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/09/Elon-is-rude-mean-but-his-superpowers-helped-OpenAI-says-Sam-Altman-on-Musks-exit-.jpg"
+    },
+    {
+        "id": 5289195,
+        "topic": "Google",
+        "title": "World leaders pay respect to Mahatma Gandhi at Rajghat",
+        "img": "https://gumlet.assettype.com/nationalherald/2023-09/105ffcf4-66dc-4188-9ee2-26a6097e72f0/world_leaders_pay_tribute_to_mahatma_gandhi.jpg"
+    },
+    {
+        "id": 4784240,
+        "topic": "Google",
+        "title": "Mum almost cancelled GP visit after symptoms vanished - but decision to go changed her life",
+        "img": "https://i2-prod.walesonline.co.uk/news/uk-news/article27681571.ece/ALTERNATES/s615/0_Jules-Fielding-1.jpg"
+    },
+    {
+        "id": 4871690,
+        "topic": "Google",
+        "title": "G20: From war against' to war in' Ukraine, Delhi declaration softens language on RussiaUkraine conflict",
+        "img": "https://gumlet.assettype.com/nationalherald/2023-09/6060744e-b8ad-4abc-97cb-b5a38d574523/F5lFEiNbIAA3mf4.jpg"
+    },
+    {
+        "id": 405646,
+        "topic": "Sport",
+        "title": "'Outrageous' Tom Curry red card sparks huge disagreements as England legends 'stuck in past'",
+        "img": "https://i2-prod.walesonline.co.uk/incoming/article27687220.ece/ALTERNATES/s615/0_JS310441267.jpg"
+    },
+    {
+        "id": 598278,
+        "topic": "Sport",
+        "title": "Trembling Rangers diehard makes himself the new manager on madcap Hotline as he offers Michael Beale a way out",
+        "img": "https://i2-prod.dailyrecord.co.uk/incoming/article29854043.ece/ALTERNATES/s615/0_Rangers-v-Celtic-Scottish-Cup-Semi-Final.jpg"
+    },
+    {
+        "id": 9879173,
+        "topic": "Sport",
+        "title": "Sean Strickland claims Israel Adesanya \"didn't even try\" during UFC title fight",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article30904161.ece/ALTERNATES/s615/0_GettyImages-1671064220.jpg"
+    },
+    {
+        "id": 3195049,
+        "topic": "Sport",
+        "title": "Arsenal still owe huge payments on Nicolas Pepe transfer despite axing 72m flop",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article30339705.ece/ALTERNATES/s615/0_Arsenal-v-Manchester-United-Premier-League.jpg"
+    },
+    {
+        "id": 6815583,
+        "topic": "Sport",
+        "title": "Coleraine 1 Hamilton 3: Accies off to a flyer in SPFL Trust Trophy defence after brushing off travel drama",
+        "img": "https://i2-prod.dailyrecord.co.uk/incoming/article30904766.ece/ALTERNATES/s615/0_acciesjfif.jpg"
+    },
+    {
+        "id": 3680254,
+        "topic": "Fight",
+        "title": "Man Utd debts pass 1billion under Glazers as owners consider taking club off market",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article27862863.ece/ALTERNATES/s615/0_FBL-EUR-C1-MAN-UTD-BARCELONA.jpg"
+    },
+    {
+        "id": 9161030,
+        "topic": "Fight",
+        "title": "Russia-Ukraine war live: Russian drones attack Kyiv; Moscow praises G20 declaration",
+        "img": "https://i.guim.co.uk/img/media/fedb75b22b1a6e301e71f799ba45184564069cfc/0_91_2236_1343/master/2236.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=19ba69fcb2118d4d6a696598a9ec226e"
+    },
+    {
+        "id": 8231391,
+        "topic": "war",
+        "title": "TikTok food tourists leave a bitter taste in Amsterdam",
+        "img": "https://i.guim.co.uk/img/media/cc55e491c9730c95627f7601b819438e12a7044f/9_399_5944_3567/master/5944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=09e884052c35f0426e4dd49bde6c057f"
+    },
+    {
+        "id": 6721540,
+        "topic": "scandal",
+        "title": "MPs have tried to kill themselves  ex-minister on mental health in Parliament",
+        "img": "https://www.watfordobserver.co.uk/resources/images/17210696/?type=app&htype=0"
+    },
+    {
+        "id": 4252660,
+        "topic": "scandal",
+        "title": "'As tributes to the late Queen mixed with praise for her son's embryonic reign, why did the words 'God Save the King' come to my lips so reluctantly?': Princess Diana's former private secretary PATRICK JEPHSON argues Charles still has sins to atone for",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/09/20/75251025-0-image-a-12_1694286917619.jpg"
+    },
+    {
+        "id": 1899294,
+        "topic": "Science",
+        "title": "Why should anyone care about condensed matter physics?",
+        "img": "https://physicsworld.com/wp-content/uploads/2023/09/Condensed-matter-video-still.jpg"
+    },
+    {
+        "id": 8878757,
+        "topic": "Hollywood",
+        "title": "Stars of the show: Three of Princess Diana's gowns are sold for 1.3million at auction after being...",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/09/20/75251301-0-image-a-21_1694287757904.jpg"
+    },
+    {
+        "id": 630553,
+        "topic": "Hollywood",
+        "title": "New poll shows Meghan Markle is more unpopular with Americans than ever, scoring a MINUS-2 approval...",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/09/23/75254809-0-image-a-4_1694298397887.jpg"
+    },
+    {
+        "id": 962431,
+        "topic": "Hollywood",
+        "title": "Danny Masterson victim slams Ashton Kutcher and Mila Kunis' 'insulting and hurtful' video apologizing for supporting rapist star, as viewers blasts stilted clip for being 'lawyered'",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/09/22/75254413-0-image-m-7_1694296703460.jpg"
+    },
+    {
+        "id": 9789178,
+        "topic": "health",
+        "title": "Horoscopes Sept. 10, 2023: Sarah Levy, hesitation will ruin your timing",
+        "img": "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SJM-L-HOROSCOPE-0910-1.jpg?w=1400px&strip=all"
+    },
+    {
+        "id": 743302,
+        "topic": "health",
+        "title": "Revealed: covert deal to cut help for pupils in England with special needs",
+        "img": "https://i.guim.co.uk/img/media/9639bc72207fd758eb662e57382d280b8579b2cb/0_108_3234_1940/master/3234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=48bf5b7500202e4e899776a393553b06"
+    },
+    {
+        "id": 5835296,
+        "topic": "health",
+        "title": "Chris Evans' old home in Windsor hits the market for 4M... just don't mention the neighbours",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/07/16/75160005-0-image-a-50_1694099822575.jpg"
+    },
+    {
+        "id": 9037393,
+        "topic": "health",
+        "title": "Criminal who robbed man in Warrington is back before the court",
+        "img": "http://www.warringtonguardian.co.uk/resources/images/12105771.jpg/"
+    },
+    {
+        "id": 9494317,
         "topic": "politics",
-        "title": "Spain's Jenni Hermoso pictured back in training for the first time with her Mexican club after filing legal complaint against shamed Spanish FA president Luis Rubiales over alleged sexual assault",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/10/75242291-0-image-a-2_1694253476564.jpg"
+        "title": "Barnaby Joyce-backed push to strike net zero emissions target from Nationals policy fails",
+        "img": "https://i.guim.co.uk/img/media/9d46651610ae6fa7f199a8c375e95e45bb00c336/0_275_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a3c76f035885ffca75321cffdb1603f"
     },
     {
-        "id": 8952381,
-        "topic": "politics",
-        "title": "Mangosuthu Buthelezi, South African politician and Zulu leader, dies aged 95",
-        "img": "https://wp.inews.co.uk/wp-content/uploads/2023/09/SEI_170797408.jpg"
+        "id": 7976863,
+        "topic": "economy",
+        "title": "Pasta, risotto, ravioli  humble millet parades its versatility in Delhi for G20",
+        "img": "https://i.guim.co.uk/img/media/ecc771c018d7df9aeac91f24413cf58f33141840/0_123_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=3054a51924a1d60563d5247fd7ce757c"
     },
     {
-        "id": 3795394,
-        "topic": "politics",
-        "title": "What Britain really thinks of the Royals: MailOnline poll reveals backing for Charles as King, most want more duties handed to William and Kate, 61% say Harry should be removed from line of succession and 69% believe Andrew must not return to public life",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/08/09/75204445-0-image-m-37_1694163460770.jpg"
+        "id": 8967617,
+        "topic": "economy",
+        "title": "Global Sulphur Bentonite Market Set to Grow at 4.7% CAGR, Reaching US$ 363.4 Million by 2033",
+        "img": "https://cdn.openpr.com/W/9/W910485851_k.jpg"
     },
     {
-        "id": 3217267,
-        "topic": "politics",
-        "title": "Prabal Gurung Spring 2024 Ready-to-Wear",
-        "img": "https://assets.vogue.com/photos/64fbceb2b668f782d861fedd/master/pass/00001-prabal-gurung-spring-2024-ready-to-wear-credit-gorunway.jpg"
+        "id": 6970629,
+        "topic": "economy",
+        "title": "Delhi G20 summit ends with mixed success",
+        "img": "https://s.rfi.fr/media/display/6bcd124c-4ef7-11ee-9625-005056bf30b7/w:1024/p:16x9/AP23252134243194.jpg"
     },
     {
-        "id": 720016,
-        "topic": "world",
-        "title": "'My Wetherspoons trip with Britain's most wanted man': Student shares astonishing footage of 'weird' Daniel Khalife at pub and claims he boasted about having \u00a320,000 in his bank account before he 'stalked' her and her friend as they left",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/02/75233957-0-image-m-15_1694221275315.jpg"
-    },
-    {
-        "id": 368880,
-        "topic": "world",
-        "title": "Neymar breaks Pele's record and becomes Brazil's all-time top scorer after notching two goals in a 5-1 win over Bolivia in World Cup qualifying",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/10/75242127-0-image-a-6_1694253364164.jpg"
-    },
-    {
-        "id": 3188306,
-        "topic": "india",
-        "title": "Greek rescue teams move into worst-hit flood villages [PHOTOS]",
-        "img": "https://in-cyprus.philenews.com/wp-content/uploads/2023/09/2023-09-08T161002Z_1651091279_RC2843AXWLYV_RTRMADP_3_EUROPE-WEATHER-GREECE-STORM.jpg"
-    },
-    {
-        "id": 1208100,
-        "topic": "russia",
-        "title": "News24 | G20 talks on climate could be crucial for Africa. Experts hope the continent will be heard",
-        "img": "https://cdn.24.co.za/files/Cms/General/d/9289/6147e91ef2404e6e801a6109a05ef5d8.jpg"
-    },
-    {
-        "id": 4873236,
-        "topic": "russia",
-        "title": "G20 adds the African Union as a member in a push to give a greater voice to developing nations",
-        "img": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/09/20230908070940-64fb08a2a1bfc64eed9a4ab8jpeg.jpg;w=960"
-    },
-    {
-        "id": 9997384,
-        "topic": "sport",
-        "title": "Jordan Henderson 'set to start for England against Ukraine' despite expected protests from LGBTQ+ supporters following midfielder's controversial move to Al-Ettifaq",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/11/75242747-0-image-a-72_1694255535599.jpg"
-    },
-    {
-        "id": 5790434,
-        "topic": "sport",
-        "title": "Harry Kane takes a swipe at Tottenham as he says 'it wasn't a disaster' if Spurs didn't win before hailing the 'top club mentality' at Bayern Munich and the pressure to dominate in the Bundesliga",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/10/75241979-0-image-a-71_1694251489013.jpg"
-    },
-    {
-        "id": 5360882,
-        "topic": "economic",
-        "title": "The rationality of North Korea",
-        "img": "https://thehill.com/wp-content/uploads/sites/2/2023/09/GettyImages-1650946289.jpg?w=900"
-    },
-    {
-        "id": 1363758,
-        "topic": "economic",
-        "title": "G20 Summit: \u2018Bali was Bali, New Delhi is Delhi\u2019 Jaishankar defends Delhi Declaration text on Russia-Ukraine conflict",
-        "img": "https://www.livemint.com/lm-img/img/2023/09/09/1600x900/Press-Conference--9_1694274585989_1694274831519.jpg"
-    },
-    {
-        "id": 3956290,
-        "topic": "economic",
-        "title": "G20 agreement reflects differences over Ukraine and rising clout of Global South",
-        "img": "https://www.watfordobserver.co.uk/resources/images/17210176/?type=app&htype=0"
-    },
-    {
-        "id": 2754876,
-        "topic": "politics",
-        "title": "The man who came to dinner! Joe Biden SHOWS UP for vegetarian G20 feast - after skipping trio of suppers with world leaders over past year",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/19/75249791-0-image-m-30_1694284020627.jpg"
-    },
-    {
-        "id": 2700092,
-        "topic": "politics",
-        "title": "Health Care Giants Dominate PA Lobbying While Pennsylvanians\u2019 Health Suffers",
-        "img": "https://truthout.org/app/uploads/2023/09/GettyImages-1155218108-1200x900.jpg"
-    },
-    {
-        "id": 2214644,
-        "topic": "world",
-        "title": "Italy v Namibia, Ireland v Romania, Australia v Georgia: All the results from the Rugby World Cup 2023",
-        "img": "https://www.nzherald.co.nz/resizer/J1Xcyencvsgd0EVCKxCvY11K3_c=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/EEEIPTNAWJACRGY6LALCZ345EE.jpg"
-    },
-    {
-        "id": 3908023,
-        "topic": "world",
-        "title": "England vs Argentina - Rugby World Cup LIVE: Alex Mitchell handed a surprise start for Steve Borthwick's side following difficult tournament preparations",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/08/16/75220883-0-image-m-8_1694185642241.jpg"
-    },
-    {
-        "id": 6625589,
-        "topic": "world",
-        "title": "Sussexes at war! Prince Harry jokes things are going to be 'competitive' between him and Meghan as she will be supporting Nigeria in the Invictus Games after discovering her heritage last year - as he puts on an animated display at opening ceremony",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/19/75250395-0-image-a-52_1694284595050.jpg"
-    },
-    {
-        "id": 7923543,
-        "topic": "world",
-        "title": "Falling into B.C.\u2019s debt trap",
-        "img": "https://www.e-know.ca/wp-content/uploads/2023/09/Cash-Canadian-100.jpg"
-    },
-    {
-        "id": 6380926,
-        "topic": "world",
-        "title": "Injured All Blacks replacement: Ethan Blackadder called into New Zealand Rugby World Cup 2023 side",
-        "img": "https://www.nzherald.co.nz/resizer/5OvuTzbCYDBt3V3hrgSg5ipWpFg=/300x300/smart/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/QZJAL4LZLD5WHJCG54OOLOOPGM.jpg"
-    },
-    {
-        "id": 6957152,
-        "topic": "world",
-        "title": "Chicken Pickin\u2019 for Rockers",
-        "img": "https://www.premierguitar.com/media-library/image.jpg?id=37463156&width=980"
-    },
-    {
-        "id": 3701338,
-        "topic": "india",
-        "title": "Congress leader BK Hariprasad's veiled critique targets Karnataka Chief Minister Siddaramaiah",
-        "img": "https://www.livemint.com/lm-img/img/2023/09/09/1600x900/PTI07-07-2023-000094A-0_1688723506359_1694279395839.jpg"
-    },
-    {
-        "id": 3622168,
-        "topic": "sport",
-        "title": "Korean sports administrator Kim Jae-youl nominated for IOC membership",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/f820df7a532344a0a244f330fe04de85.jpg"
-    },
-    {
-        "id": 3220156,
-        "topic": "sport",
-        "title": "Wallabies open World Cup with 35-15 win over Georgia",
-        "img": "https://images.thewest.com.au/publication/C-11854786/52bd48830fa07b9d10fe1de49ea52d1fd5379aea-16x9-x0y0w1280h720.jpg"
-    },
-    {
-        "id": 6480575,
-        "topic": "America",
-        "title": "New Jersey is home to one of the oldest roads in America",
-        "img": "https://townsquare.media/site/393/files/2023/09/attachment-randy-fath-TUXrJZCNHbU-unsplash.jpg"
-    },
-    {
-        "id": 5301925,
-        "topic": "America",
-        "title": "N.S. park officers kill coyote that chased bike, search for another that bit rider",
-        "img": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/09/20230909120928-64fc9da27e3c0df8bb301033jpeg.jpg;w=960"
-    },
-    {
-        "id": 4356939,
-        "topic": "news",
-        "title": "Motorboat 'explodes' before bursting into flames off North Wales as 'two people are rescued from raging inferno' that sends black smoke billowing towards beachgoers",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/18/75249661-0-image-m-19_1694281645601.jpg"
-    },
-    {
-        "id": 3245341,
+        "id": 1118371,
         "topic": "breaking",
-        "title": "Bengals QB Joe Burrow, now the NFL's highest-paid player, says contract talks weren't a distraction",
-        "img": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/09/20230909130952-64fcb15d6194889ae3a3522djpeg.jpg;w=960"
+        "title": "UK weather: yellow thunderstorm warnings amid record-breaking September heatwave",
+        "img": "https://i.guim.co.uk/img/media/7d73fee81df8f2b9dd64a0443896f101a24a4a3f/0_267_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b33eb233b56de01a810ae98e2aeb17d"
     },
     {
-        "id": 9928431,
-        "topic": "science",
-        "title": "Hurricane Lee is charting a new course in weather and could signal more monster storms",
-        "img": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/09/20230909000916-64fbf1c09eacf444a1687643jpeg.jpg;w=960"
-    },
-    {
-        "id": 2319984,
-        "topic": "technology",
-        "title": "PM Narendra Modi meets with UK Prime Minister Rishi Sunak, discuss progress of India-UK FTA negotiations",
-        "img": "https://www.livemint.com/lm-img/img/2023/09/09/1600x900/ANI-20230909450-0_1694277798780_1694277817045.jpg"
-    },
-    {
-        "id": 5441654,
-        "topic": "arab",
-        "title": "Oman calls for global strategy for nutritional development",
-        "img": "https://www.muscatdaily.com/wp-content/uploads/2023/09/MD-Images-Sept1011-770x578.jpg"
-    },
-    {
-        "id": 3793445,
+        "id": 6622722,
         "topic": "breaking",
-        "title": "M\u00e1laga Metro Continues To Break Passenger Records",
-        "img": "https://euroweeklynews.com/wp-content/uploads/2020/12/089d5496964396e44e86278b4ed6056f-1024x678.jpeg"
-    },
-    {
-        "id": 9161079,
-        "topic": "breaking",
-        "title": "Palo Alto police investigating third burglary at multi-million dollar Crescent Park home since 2021",
-        "img": "https://www.mercurynews.com/wp-content/uploads/2023/06/TDB-L-MASSAGE-ARREST-0414.jpg?w=1400px&strip=all"
-    },
-    {
-        "id": 9334446,
-        "topic": "news",
-        "title": "M4 traffic news: Skoda driver caught hogging middle lane in Wiltshire",
-        "img": "http://www.gazetteandherald.co.uk/resources/images/17209869.jpg/"
-    },
-    {
-        "id": 9822859,
-        "topic": "news",
-        "title": "Powerful quake in Morocco kills more than 1,300 people and damages historic buildings in Marrakech",
-        "img": "https://www.mercurynews.com/wp-content/uploads/2023/09/Morocco_Earthquake_69764.jpg?w=1400px&strip=all"
-    },
-    {
-        "id": 260737,
-        "topic": "news",
-        "title": "Terrorism suspect who escaped from London prison is captured while riding a bike",
-        "img": "https://www.mercurynews.com/wp-content/uploads/2023/09/AP23252386798889.jpg?w=1400px&strip=all"
-    },
-    {
-        "id": 5907800,
-        "topic": "Hot",
-        "title": "Cardi B reveals she didn't think she would marry husband Offset back when they first met: 'Never would've thought'",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/16/75246425-0-image-a-6_1694275074487.jpg"
-    },
-    {
-        "id": 2766615,
-        "topic": "Hot",
-        "title": "Alison Hammond wears budget clothes on This Morning - and it's even rubbing off on Holly",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/18/75247939-0-image-a-10_1694278875438.jpg"
-    },
-    {
-        "id": 6667032,
-        "topic": "economic",
-        "title": "Korean Japanese customs agencies hold first bilateral meeting in 7 years",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/5a8f2147274e4c158133882e59a42d07.jpg"
-    },
-    {
-        "id": 8122679,
-        "topic": "economic",
-        "title": "Korea signs free trade pact with Philippines",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/73ad27fccbb040bc9a681243b9094d10.jpg"
-    },
-    {
-        "id": 260453,
-        "topic": "economic",
-        "title": "Korea Uzbekistan strike deal on outstanding payment in gas project",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/f7ac3c89d2b34da19b398cfdb2440ec7.jpg"
-    },
-    {
-        "id": 3177274,
-        "topic": "economic",
-        "title": "INTERVIEW N Korean defector keeps fingers crossed for daughter detained in China",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/a541c5837cac4177bb83153b52b90455.jpg"
-    },
-    {
-        "id": 8475849,
-        "topic": "economic",
-        "title": "Yoon says he will discuss defense supply chain cooperation with Indias Modi",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/f865309d08ca45e2beaee6cebb00cfd8.jpg"
-    },
-    {
-        "id": 7306595,
-        "topic": "politics",
-        "title": "Nancy Pelosi announces she will run for reelection in 2024 aged 84",
-        "img": "https://static.independent.co.uk/2023/06/15/02/Biden_20348.jpg?width=1200&auto=webp"
-    },
-    {
-        "id": 4477850,
-        "topic": "politics",
-        "title": "Prosecutors raid election watchdog over alleged illegal donations to Lee",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/2f9c8fbcd3c84a8fa3d6c3c0ed6e1621.jpg"
-    },
-    {
-        "id": 8506871,
-        "topic": "politics",
-        "title": "Brazilian ambassador sees ample opportunities to boost bilateral cooperation with Korea",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/0d9fbbb6c45f479093e810249214fbce.jpg"
-    },
-    {
-        "id": 73400,
-        "topic": "world",
-        "title": "News24  WATCH  Winners Circle Twotime World Cup winner Frans Steyn backs the Boks not concerned about the Irish",
-        "img": "https://cdn.24.co.za/files/Cms/General/d/9282/20fdf62b33cc4a52aacc41281d4d7c2c.jpg"
-    },
-    {
-        "id": 9533674,
-        "topic": "world",
-        "title": "Alabama deputy kills coworker girlfriend in apparen murdersuicide",
-        "img": "https://static.independent.co.uk/2023/09/08/17/374569668_697915639030444_65464987849409975_n.jpg?width=1200&auto=webp"
-    },
-    {
-        "id": 6194944,
-        "topic": "india",
-        "title": "Yoon approves dismissal motion of commissioner for conflict of interest violation",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/e81c135377a347008a17e38d17a3e95b.jpg"
-    },
-    {
-        "id": 8499565,
-        "topic": "india",
-        "title": "Yoon to promote Seouls relationship with US at G20 amid Xis absence",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/fd69356bfe854a869705ede474f10569.jpg"
-    },
-    {
-        "id": 8727549,
-        "topic": "russia",
-        "title": "Indonesia warns against new conflicts as US China Russia attend summit",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/126176aa0e374994b7652a0b282b0a79.jpg"
-    },
-    {
-        "id": 7466676,
-        "topic": "russia",
-        "title": "Kazakhstan seeks investments from Korean companies",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/6fc8dd39b1ff487cb9f65b9373174379.jpg"
-    },
-    {
-        "id": 169519,
-        "topic": "russia",
-        "title": "North Koreas nuclear issue should not derail SeoulBeijing ties Yoon says",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/bdf44ce5526f445e9d2137657b75b131.jpg"
-    },
-    {
-        "id": 2825107,
-        "topic": "russia",
-        "title": "Russian Foreign Ministry Summons Armenian Ambassador Over Yerevans Unfriendly Actions",
-        "img": "https://cdn1.img.sputnikglobe.com/img/07e6/08/01/1097987754_0:0:3314:1864_600x0_80_0_0_45d09deb6626204ef5887e2e0b5cbed7.jpg"
-    },
-    {
-        "id": 9878456,
-        "topic": "sport",
-        "title": "Korean Japanese Chinese culture ministers agree to strengthen exchanges cooperation",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/c22a2d501ba743abb426b28ddd96abd9.jpg"
-    },
-    {
-        "id": 4100072,
-        "topic": "sport",
-        "title": "Veterans minister to attend Invictus Games meet Korean War vets during 3nation European trip",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/5ee04ab33fe34cf7a8be4a95bdca0b9e.jpg"
-    },
-    {
-        "id": 6565044,
-        "topic": "sport",
-        "title": "Tammy Beaumont says England keen to get back to winning ways quickly",
-        "img": "https://www.times-series.co.uk/resources/images/17208890/?type=app&htype=0"
-    },
-    {
-        "id": 3558622,
-        "topic": "sport",
-        "title": "Irish fans mock France with Lionel Messis Argentina jersey in Euro qualifiers",
-        "img": "https://www.hindustantimes.com/ht-img/img/2023/09/08/1600x900/messi_ireladn_1694191982928_1694192001219.jpg"
-    },
-    {
-        "id": 6026604,
-        "topic": "sport",
-        "title": "Virgil van Dijk banned for extra game after reaction to red card at Newcastle",
-        "img": "https://www.andoveradvertiser.co.uk/resources/images/17169199/?type=app&htype=0"
-    },
-    {
-        "id": 699264,
-        "topic": "sport",
-        "title": "Dak Prescott was sedated for ELEVEN HOURS to get massive leg tattoo with Cowboys quarterback getting ink of Kobe Bryant Michael Jordan and Muhammad Ali",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/08/18/75224281-0-image-a-59_1694192476019.jpg"
-    },
-    {
-        "id": 6169838,
-        "topic": "Forex",
-        "title": "Following are foreign exchange rates on September082023",
-        "img": "https://assets.thehansindia.com/h-upload/2020/10/25/500x300_1007504-foren.webp"
-    },
-    {
-        "id": 9863192,
-        "topic": "Forex",
-        "title": "Rupee Rises 24 Paise To Close At 8299 Against US Dollar",
-        "img": "https://gumlet.assettype.com/freepressjournal/2023-01/309a5744-7633-4e31-8365-dc99ff76ad37/american_one_dollar_bank_note_indian_ten_rupee_notes_close_up_image_macro_172415082.jpg"
-    },
-    {
-        "id": 7909938,
-        "topic": "Forex",
-        "title": "Stock Market Extends Rally To 6th Day Sensex Rises 333 Points Nifty Above 19800 NTPC TaMo Up 2",
-        "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/08/11bdde9d67283b76bc310737d6c4306d1694168775936314_original.jpg"
-    },
-    {
-        "id": 4723092,
-        "topic": "Forex",
-        "title": "Pakistani rupee continues recovery against US dollar",
-        "img": "https://en.dailypakistan.com.pk/digital_images/large/2023-09-08/pakistani-rupee-continues-recovery-against-us-dollar-1694166631-6316.jpg"
-    },
-    {
-        "id": 9100575,
-        "topic": "Forex",
-        "title": "Russian rouble edges up supported by expected forex sales",
-        "img": "https://i.brecorder.com/large/2023/09/0813474979971e7.jpg?r=134753"
-    },
-    {
-        "id": 8325480,
-        "topic": "Crypto",
-        "title": "Asia Web3 GO  Reveal the Future of Asias Blockchain Sphere",
-        "img": "https://coincu.com/wp-content/uploads/2023/09/image-221-1024x512.png"
-    },
-    {
-        "id": 9674470,
-        "topic": "Crypto",
-        "title": "France Tightens Rules For Influencers Promoting Crypto",
-        "img": "https://coincu.com/wp-content/uploads/2023/09/image-219-1024x731.png"
-    },
-    {
-        "id": 751589,
-        "topic": "Scandal",
-        "title": "Rubio Fox News try to explain Trumps failures on infrastructure",
-        "img": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-05/220510-marco-rubio-maddowblog-mn-0725-7a35f8.jpg"
-    },
-    {
-        "id": 1445237,
-        "topic": "Scandal",
-        "title": "World Cup soccer kiss could lead to Spanish sexual assault charge",
-        "img": "https://www.kimberleybulletin.com/wp-content/uploads/2023/09/33837744_web1_20230906100912-64f889963b02f8fb18effaa7jpeg-1024x682.jpg"
-    },
-    {
-        "id": 4576512,
-        "topic": "Scandal",
-        "title": "News24  Zimbabwe gets two familiar faces as VPs  including one who left amid scandal",
-        "img": "https://cdn.24.co.za/files/Cms/General/d/9285/613bd95b37824fcaa872d74d6acfdf83.jpg"
-    },
-    {
-        "id": 1582281,
-        "topic": "Love",
-        "title": "Queen Elizabeth II remembered a year after her death as gun salutes ring out for King Charles III",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/21618a86271a46668acc663855a20345.jpg"
-    },
-    {
-        "id": 476574,
-        "topic": "Love",
-        "title": "Fortnite Boss Donald Mustard Retires from Epic Games",
-        "img": "https://sportshub.cbsistatic.com/i/2023/09/08/14d47304-5769-45da-bbf9-c34272ee08d6/fortnite.jpg"
-    },
-    {
-        "id": 9985903,
-        "topic": "America",
-        "title": "Korea Nebraska discuss stronger energy industry ties",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/6c196956798b4dbd9d8b3383c6336816.jpg"
-    },
-    {
-        "id": 8679363,
-        "topic": "America",
-        "title": "ANALYSIS Concerns of Korea getting dragged into war in Taiwan are inflated",
-        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/cea7fb0273dd4511833d33bbd712a109.jpg"
-    },
-    {
-        "id": 3822378,
-        "topic": "America",
-        "title": "Harry and Meghan book luxury 2500anight suite for Invictus Games",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/08/17/75210267-0-image-a-66_1694190949167.jpg"
-    },
-    {
-        "id": 1593361,
-        "topic": "America",
-        "title": "SNL alum Darrell Hammond to play Sen Everett Dirksen in NY staged reading",
-        "img": "https://thehill.com/wp-content/uploads/sites/2/2023/09/hammonddarrell_03272022getty.jpg?w=900"
-    },
-    {
-        "id": 6246571,
-        "topic": "America",
-        "title": "Wendys joins craze shoving fall down our throats",
-        "img": "https://townsquare.media/site/385/files/2023/09/attachment-Wendys-pumpkin.jpg"
-    },
-    {
-        "id": 1805885,
-        "topic": "America",
-        "title": "Pop Marts first US store is coming to New Jersey",
-        "img": "https://townsquare.media/site/385/files/2023/09/attachment-Pop-Mart-2.jpg"
-    },
-    {
-        "id": 1037650,
-        "topic": "America",
-        "title": "The cult of Donald Trump",
-        "img": "https://thehill.com/wp-content/uploads/sites/2/2023/03/4f8904dda5f34b27bfa7b2851911c83d.jpg?w=900"
-    },
-    {
-        "id": 3783334,
-        "topic": "America",
-        "title": "Trump heads to South Dakota where Governor Kristi Noem is being eyed as a potential running mate",
-        "img": "https://static.independent.co.uk/2023/09/07/23/Election_2024_Trump_South_Dakota_58894.jpg?width=1200&auto=webp"
-    },
-    {
-        "id": 7024077,
-        "topic": "Crypto",
-        "title": "Grab Southeast Asias Uber Integrates NFTs into Business Model",
-        "img": "https://nftlately.com/wp-content/uploads/2023/09/Grab-NFT-1024x683.jpg"
-    },
-    {
-        "id": 5627704,
-        "topic": "Love",
-        "title": "MADD Canada to unveil monument honouring victims of impaired drivers in Ontario",
-        "img": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2023/09/madd-canada-e1694193998313.jpg?quality=100&strip=all"
-    },
-    {
-        "id": 5829144,
-        "topic": "economic",
-        "title": "Burlington County craft beer and food truck festival returns",
-        "img": "https://townsquare.media/site/385/files/2023/09/attachment-craft-festival-.jpg"
-    },
-    {
-        "id": 8938181,
-        "topic": "economic",
-        "title": "News24  EFF in Nelson Mandela Bay calls for special council meeting to discuss city managers fraud charges",
-        "img": "https://cdn.24.co.za/files/Cms/General/d/7082/4c3d1385d7844c5f9fdcddc289061f22.jpg"
-    },
-    {
-        "id": 3520692,
-        "topic": "politics",
-        "title": "LILLEY As StatsCan shows immigration soaring is it time for pause",
-        "img": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2023/09/GettyImages-860685478-e1694198657496.jpg?quality=100&strip=all"
-    },
-    {
-        "id": 1145661,
-        "topic": "politics",
-        "title": "Bill cracking down on California school textbook bans heads to Gov Newsom",
-        "img": "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SBS-L-MIMP-0727-01.jpg?w=1400px&strip=all"
-    },
-    {
-        "id": 9748510,
-        "topic": "politics",
-        "title": "Nancy Pelosi says shell seek reelection in 2024 dismissing talk of retirement",
-        "img": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2023/09/pelosi.jpg?quality=100&strip=all"
-    },
-    {
-        "id": 4373225,
-        "topic": "politics",
-        "title": "Lindsey Graham reacts as court report reveals grand jury voted to charge him in Trump probe",
-        "img": "https://static.independent.co.uk/2023/09/08/15/GettyImages-1648452399.jpg?width=1200&auto=webp"
-    },
-    {
-        "id": 655721,
-        "topic": "world",
-        "title": "Worlds hottest cop banned from Tinder",
-        "img": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2023/09/adrienne.jpg?quality=100&strip=all"
-    },
-    {
-        "id": 1690901,
-        "topic": "sport",
-        "title": "Liel Abada sweats over Celtic injury fear as muscle complaint sees star set for a scan",
-        "img": "https://i2-prod.dailyrecord.co.uk/incoming/article30534889.ece/ALTERNATES/s615/0_Celtic-v-Gamba-Osaka-Preseason-Friendly.jpg"
-    },
-    {
-        "id": 9954507,
-        "topic": "sport",
-        "title": "Jenni Hermoso complaint against Luis Rubiales filed with Spains high court",
-        "img": "https://www.andoveradvertiser.co.uk/resources/images/17208973/?type=app&htype=0"
-    },
-    {
-        "id": 4810541,
-        "topic": "sport",
-        "title": "Mike Tindall praises late Queen as wonderful woman at start of Rugby World Cup",
-        "img": "https://static.standard.co.uk/2023/09/08/18/340dbce50f23dd3993f5dade15351bdaY29udGVudHNlYXJjaGFwaSwxNjk0Mjc1MTY5-2.4241578.jpg?width=1200&auto=webp"
-    },
-    {
-        "id": 1584368,
-        "topic": "America",
-        "title": "From pi\u00f1ata to postage stamp US celebrates centuriesold Hispanic tradition",
-        "img": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/09/20230908190932-64fbaf0c9eacf444a16860bbjpeg.jpg;w=960"
-    },
-    {
-        "id": 1896537,
-        "topic": "Forex",
-        "title": "Jawan Box Office collection 200 crore in just 3 days SRKs movie sells over 11 lakh tickets in advance booking",
-        "img": "https://www.livemint.com/lm-img/img/2023/09/09/1600x900/Jawan-will-have-a-solo-release-across-4-500-5-000-_1693938109454_1694228916590.jpg"
-    },
-    {
-        "id": 6773595,
-        "topic": "Forex",
-        "title": "Rupee recovers Rs2 against dollar",
-        "img": "https://www.nation.com.pk/print_images/large/2023-09-09/rupee-recovers-rs2-against-dollar-1694203151-4480.jpg"
-    },
-    {
-        "id": 127210,
-        "topic": "Crypto",
-        "title": "Cryptocurrency Many invest but few find fortune",
-        "img": "https://apicms.thestar.com.my/uploads/images/2023/09/09/2275364.jpg"
-    },
-    {
-        "id": 4165256,
-        "topic": "Scandal",
-        "title": "The Group of 20 has agreed to make the African Union a permanent member Indian leader Modi says",
-        "img": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/09/20230908230936-64fbe8fca1bfc64eed9a9885jpeg.jpg;w=960"
-    },
-    {
-        "id": 6685589,
-        "topic": "Scandal",
-        "title": "Mangosuthu Buthelezi the towering Zulu Prince",
-        "img": "https://image-prod.iol.co.za/16x9/800?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/9f33d940-76c4-535c-8632-9da8edc0f344&operation=CROP&offset=0x0&resize=3543x1990"
-    },
-    {
-        "id": 7962540,
-        "topic": "Scandal",
-        "title": "Spanish prosecutor files complaint with high court",
-        "img": "https://www.nationnews.com/nationnews/news/wp-content/uploads/sites/2/2023/09/Luis-Rubiales.jpg"
-    },
-    {
-        "id": 9153097,
-        "topic": "Scandal",
-        "title": "Families should have absolutely been listened to sooner over maternity failures at NHS trust",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/01/75234469-0-image-a-23_1694217626015.jpg"
-    },
-    {
-        "id": 6037846,
-        "topic": "Love",
-        "title": "Teen neighbour kept cutting through my garden on way to school  so I got revenge",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article30877830.ece/ALTERNATES/s1200/0_GettyImages-545878249.jpg"
-    },
-    {
-        "id": 1250334,
-        "topic": "news",
-        "title": "Legislation In US House Seeks Removal Of Barriers On Tech Export To India",
-        "img": "https://c.ndtvimg.com/2023-09/vo5e35tc_pm-modi-biden_120x90_09_September_23.jpg"
-    },
-    {
-        "id": 3990424,
-        "topic": "news",
-        "title": "Shaheens Best Is Yet To Come Warning To India Ahead Of Asia Cup Clash",
-        "img": "https://c.ndtvimg.com/2023-09/9ksdir1_shaheen-afridi-afp_625x300_09_September_23.jpg?im=FeatureCrop,algorithm=dnn,width=240,height=180"
-    },
-    {
-        "id": 5051591,
-        "topic": "news",
-        "title": "Delhi At Its Ashneer Grover Takes A Drive In His Porsche Amid G20",
-        "img": "https://c.ndtvimg.com/2023-09/4oiqqkcg_ashneer-grover-porsche_120x90_09_September_23.jpg"
-    },
-    {
-        "id": 4908076,
-        "topic": "breaking",
-        "title": "Football news LIVE Sancho latest Van Dijk ban reaction and Harry Kane comments",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article30899427.ece/ALTERNATES/s615/0_LEAVE-IN-DRAFTS-Football-news-LIVE-Sancho-latest-Van-Dijk-ban-reaction-and-Harry-Kane-comments.jpg"
-    },
-    {
-        "id": 9659121,
-        "topic": "breaking",
-        "title": "Liverpool roundup Virgil van Dijk makes frank admission as Saudi stance revealed",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article29579125.ece/ALTERNATES/s1200/0_Screenshot-2023-03-29-at-122242.jpg"
-    },
-    {
-        "id": 3835134,
-        "topic": "breaking",
-        "title": "Arsenal news Martin Odegaard handed praise from title rival as Gunners let two leave",
-        "img": "https://i2-prod.dailystar.co.uk/incoming/article30854146.ece/ALTERNATES/s1200/1_Arsenal-FC-v-Manchester-United-Premier-League.jpg"
-    },
-    {
-        "id": 1773208,
-        "topic": "breaking",
-        "title": "Paul Walkers brother breaks down as he reveals how family mark birthday each year",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article30899615.ece/ALTERNATES/s1200/0_GettyImages-2745629.jpg"
-    },
-    {
-        "id": 1305030,
-        "topic": "breaking",
-        "title": "What time is Sidemen match 2023 Kickoff time for KSI vs iShowSpeed",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article30868948.ece/ALTERNATES/s1200/0_Sidemen-FC-VS-YouTube-All-Stars-charity-match.jpg"
-    },
-    {
-        "id": 4914594,
-        "topic": "breaking",
-        "title": "Powerful earthquake strikes Morocco killing hundreds and damaging historic buildings in Marrakech",
-        "img": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2023/09/20230908200912-64fbb8c69eacf444a1686352jpeg.jpg;w=960"
-    },
-    {
-        "id": 4940568,
-        "topic": "education",
-        "title": "Ban or embrace Colleges wrestle with AIgenerated admissions essays",
-        "img": "https://www.denverpost.com/wp-content/uploads/2023/09/AI-COLLEGE-ESSAYS-3.jpg?w=1400px&strip=all"
-    },
-    {
-        "id": 5342640,
-        "topic": "Hot",
-        "title": "Met Office weather forecast predicts thunderstorms for Cambridge, Peterborough and Ely",
-        "img": "https://i2-prod.cambridge-news.co.uk/incoming/article25334231.ece/ALTERNATES/s615/0_130916thunderstorm1.jpg"
-    },
-    {
-        "id": 5272018,
-        "topic": "Hot",
-        "title": "De Meo: Rumours of Alpine F1 team sale bullsh!t",
-        "img": "https://www.grandprix247.com/wp-content/uploads/2023/09/alpine-team.jpg"
-    },
-    {
-        "id": 979122,
-        "topic": "Hot",
-        "title": "Ed Sheeran apologises as he's forced to cancel concert at the last minute",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article30381447.ece/ALTERNATES/s98/1_BESTPIX-Netflixs-Extraction-2-New-York-Premiere.jpg"
-    },
-    {
-        "id": 966486,
-        "topic": "Hot",
-        "title": "Sinead O'Connor remembered as 'funniest person I know' by ex-husband",
-        "img": "https://i2-prod.irishmirror.ie/incoming/article30904298.ece/ALTERNATES/s98/0_GettyImages-1203492657.jpg"
-    },
-    {
-        "id": 5708857,
-        "topic": "Hot",
-        "title": "Stewart: I don\u2019t see much room for Verstappen to improve",
-        "img": "https://www.grandprix247.com/wp-content/uploads/2023/09/SI202309020400.jpg"
-    },
-    {
-        "id": 2392260,
-        "topic": "News",
-        "title": "Rugby World Cup 2023 TV schedule: Channels, times and how to watch every fixture online",
-        "img": "https://static.independent.co.uk/2023/09/06/15/2023-09-04T090926Z_12386583_UP1EJ940PFO14_RTRMADP_3_RUGBY-UNION-WORLDCUP-OPENING-CONFERENCE.JPG?width=1200&auto=webp"
-    },
-    {
-        "id": 5299138,
-        "topic": "News",
-        "title": "Is South Africa vs Scotland on TV? Channel, start time and how to watch Rugby World Cup",
-        "img": "https://static.independent.co.uk/2023/09/07/15/RUGBYU%20Scotland%20%2019471936.jpg?width=1200&auto=webp"
-    },
-    {
-        "id": 2554711,
-        "topic": "News",
-        "title": "Is Wales vs Fiji on TV? Channel, start time and how to watch Rugby World Cup",
-        "img": "https://static.independent.co.uk/2023/09/07/16/RUGBYU%20Wales%20%2017171799.jpg?width=1200&auto=webp"
-    },
-    {
-        "id": 2148969,
-        "topic": "News",
-        "title": "Is Ireland vs Netherlands on TV? Channel, start time and how to watch Euro 2024 qualifier online",
-        "img": "https://static.independent.co.uk/2022/09/19/17/GettyImages-542158294.jpg?width=1200&auto=webp"
+        "title": "Norway confess Scotland are brilliant as they admit Steve Clarke's side so imposing 'no help was expected'",
+        "img": "https://i2-prod.dailyrecord.co.uk/incoming/article30904631.ece/ALTERNATES/s615/0_20780073.jpg"
     }
 ]
