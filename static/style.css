@@ -67,7 +67,7 @@ a{
 #content{
     width: 100% ;
     padding: 10px 15px;
-    line-height: 28px;
+    line-height: 29px;
 }
 
 
@@ -91,13 +91,14 @@ a{
 .r{
     width: 100%;
     min-width: 320px;
-    height: 135px;
+    height: 120px;
     display: flex;
     flex-direction: row;
     background-color: rgb(231, 231, 231);
     color: black !important;
     padding: 7px;
     margin: 12px 0;
+    overflow: hidden;
 }
 .r img{
     width: 120px;
@@ -125,7 +126,7 @@ a{
 
     #mainad{
         width: 570px;
-        height: 170px;
+        height: 140px;
         margin: 10px auto;
     }
 
@@ -146,7 +147,7 @@ a{
     }
 
     #content{
-        line-height: 32px;
+        line-height: 35px;
     }
 
     #search{

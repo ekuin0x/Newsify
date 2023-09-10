@@ -1,188 +1,350 @@
 [
     {
-        "id": 3325346,
-        "topic": "India",
-        "title": "G20 Summit 2023: PM Modi calls for moving on from global village to 'global family'",
-        "img": "https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/09/Modi-ka-bhasan.jpg"
+        "id": 3560000,
+        "topic": "Science",
+        "title": "$7 million project begins to rebuild historic Northern California wharf wrecked in huge winter storms",
+        "img": "https://www.eastbaytimes.com/wp-content/uploads/2023/09/STC-L-WHARFUPDATE-0910-01.jpg?w=1400px&strip=all"
     },
     {
-        "id": 3681973,
-        "topic": "India",
-        "title": "G20 Summit 2023: France Prez Macron calls for 'deep reform of global governance'",
-        "img": "https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/09/Screenshot-2023-09-10-at-3.38.12.jpg"
+        "id": 3570826,
+        "topic": "Science",
+        "title": "NASA finds 'fairy circles' in Australia emitting Hydrogen: Report",
+        "img": "https://www.hindustantimes.com/ht-img/img/2023/09/10/1600x900/ergreg3r_1694347134687_1694347142413.png"
     },
     {
-        "id": 6852433,
-        "topic": "India",
-        "title": "Anthony Albanese pushes to finalise EU trade deal by end of year during talks on sidelines of G20",
-        "img": "https://i.guim.co.uk/img/media/602bf1ceaeb77337979640d3046ba797f70b6940/0_74_5878_3527/master/5878.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8f3dd8a9e72884727f52e87cd95abc5"
+        "id": 3059055,
+        "topic": "Science",
+        "title": "US could avert a MILLION deaths each year if mortality rates were on par with 21 richest countries, study",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/08/16/75221445-0-image-a-4_1694186777800.jpg"
     },
     {
-        "id": 7326217,
-        "topic": "Google",
-        "title": "Elon is 'rude, mean' but his superpowers helped OpenAI, says Sam Altman on Musk's exit",
-        "img": "https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/09/Elon-is-rude-mean-but-his-superpowers-helped-OpenAI-says-Sam-Altman-on-Musks-exit-.jpg"
+        "id": 2131526,
+        "topic": "scandal",
+        "title": "MAFS UK suffers embarrassing spoiler as contestant poses with 'new girlfriend' ahead of show",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article30905086.ece/ALTERNATES/s615/0_MAFS.jpg"
     },
     {
-        "id": 5289195,
-        "topic": "Google",
-        "title": "World leaders pay respect to Mahatma Gandhi at Rajghat",
-        "img": "https://gumlet.assettype.com/nationalherald/2023-09/105ffcf4-66dc-4188-9ee2-26a6097e72f0/world_leaders_pay_tribute_to_mahatma_gandhi.jpg"
+        "id": 9463187,
+        "topic": "scandal",
+        "title": "Man catches wife having scandalous affair with his brother at children's birthday party",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article30905126.ece/ALTERNATES/s615/0_Side-view-of-a-sensual-couple-having-morning-sex.jpg"
     },
     {
-        "id": 4784240,
-        "topic": "Google",
-        "title": "Mum almost cancelled GP visit after symptoms vanished - but decision to go changed her life",
-        "img": "https://i2-prod.walesonline.co.uk/news/uk-news/article27681571.ece/ALTERNATES/s615/0_Jules-Fielding-1.jpg"
+        "id": 3689476,
+        "topic": "scandal",
+        "title": "Testing supermarket butters against Lurpak - which will win?",
+        "img": "https://www.thenorthernecho.co.uk/resources/images/17128474/?type=app&htype=0"
     },
     {
-        "id": 4871690,
-        "topic": "Google",
-        "title": "G20: From war against' to war in' Ukraine, Delhi declaration softens language on RussiaUkraine conflict",
-        "img": "https://gumlet.assettype.com/nationalherald/2023-09/6060744e-b8ad-4abc-97cb-b5a38d574523/F5lFEiNbIAA3mf4.jpg"
-    },
-    {
-        "id": 405646,
-        "topic": "Sport",
-        "title": "'Outrageous' Tom Curry red card sparks huge disagreements as England legends 'stuck in past'",
-        "img": "https://i2-prod.walesonline.co.uk/incoming/article27687220.ece/ALTERNATES/s615/0_JS310441267.jpg"
-    },
-    {
-        "id": 598278,
-        "topic": "Sport",
-        "title": "Trembling Rangers diehard makes himself the new manager on madcap Hotline as he offers Michael Beale a way out",
-        "img": "https://i2-prod.dailyrecord.co.uk/incoming/article29854043.ece/ALTERNATES/s615/0_Rangers-v-Celtic-Scottish-Cup-Semi-Final.jpg"
-    },
-    {
-        "id": 9879173,
-        "topic": "Sport",
-        "title": "Sean Strickland claims Israel Adesanya \"didn't even try\" during UFC title fight",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article30904161.ece/ALTERNATES/s615/0_GettyImages-1671064220.jpg"
-    },
-    {
-        "id": 3195049,
-        "topic": "Sport",
-        "title": "Arsenal still owe huge payments on Nicolas Pepe transfer despite axing 72m flop",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article30339705.ece/ALTERNATES/s615/0_Arsenal-v-Manchester-United-Premier-League.jpg"
-    },
-    {
-        "id": 6815583,
-        "topic": "Sport",
-        "title": "Coleraine 1 Hamilton 3: Accies off to a flyer in SPFL Trust Trophy defence after brushing off travel drama",
-        "img": "https://i2-prod.dailyrecord.co.uk/incoming/article30904766.ece/ALTERNATES/s615/0_acciesjfif.jpg"
-    },
-    {
-        "id": 3680254,
-        "topic": "Fight",
-        "title": "Man Utd debts pass 1billion under Glazers as owners consider taking club off market",
-        "img": "https://i2-prod.mirror.co.uk/incoming/article27862863.ece/ALTERNATES/s615/0_FBL-EUR-C1-MAN-UTD-BARCELONA.jpg"
-    },
-    {
-        "id": 9161030,
-        "topic": "Fight",
-        "title": "Russia-Ukraine war live: Russian drones attack Kyiv; Moscow praises G20 declaration",
-        "img": "https://i.guim.co.uk/img/media/fedb75b22b1a6e301e71f799ba45184564069cfc/0_91_2236_1343/master/2236.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=19ba69fcb2118d4d6a696598a9ec226e"
-    },
-    {
-        "id": 8231391,
-        "topic": "war",
-        "title": "TikTok food tourists leave a bitter taste in Amsterdam",
-        "img": "https://i.guim.co.uk/img/media/cc55e491c9730c95627f7601b819438e12a7044f/9_399_5944_3567/master/5944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=09e884052c35f0426e4dd49bde6c057f"
-    },
-    {
-        "id": 6721540,
+        "id": 114019,
         "topic": "scandal",
         "title": "MPs have tried to kill themselves  ex-minister on mental health in Parliament",
-        "img": "https://www.watfordobserver.co.uk/resources/images/17210696/?type=app&htype=0"
+        "img": "https://static.standard.co.uk/2023/09/10/09/9874c2d65049bba87b35c40b1290e4fcY29udGVudHNlYXJjaGFwaSwxNjk0NDE4NDIz-2.50056129.jpg?width=1200&auto=webp"
     },
     {
-        "id": 4252660,
+        "id": 3651463,
         "topic": "scandal",
-        "title": "'As tributes to the late Queen mixed with praise for her son's embryonic reign, why did the words 'God Save the King' come to my lips so reluctantly?': Princess Diana's former private secretary PATRICK JEPHSON argues Charles still has sins to atone for",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/20/75251025-0-image-a-12_1694286917619.jpg"
+        "title": "Patrick Kielty vows never to sing on The Late Late Show as he prepares for debut",
+        "img": "https://i2-prod.irishmirror.ie/incoming/article30613894.ece/ALTERNATES/s98/0_Untitled-design-2023-08-02T170151153.png"
     },
     {
-        "id": 1899294,
-        "topic": "Science",
-        "title": "Why should anyone care about condensed matter physics?",
-        "img": "https://physicsworld.com/wp-content/uploads/2023/09/Condensed-matter-video-still.jpg"
+        "id": 8358341,
+        "topic": "Hollywood",
+        "title": "K-Fantasy A Time Called You Plays With Concepts Of Time And Identity",
+        "img": "https://imageio.forbes.com/specials-images/imageserve/64fcbd58363fd1398f1a563b/0x0.jpg?width=960&precrop=1326%2C745%2Cx0%2Cy0"
     },
     {
-        "id": 8878757,
+        "id": 597974,
+        "topic": "Hollywood",
+        "title": "Creepy video of Ashton Kutcher talking about an underage Hilary Duff goes viral - is he a scientologist?",
+        "img": "https://www.thesouthernreporter.co.uk/jpim-static/image/2023/09/10/11/newFile-1.jpg?width=1200&auto=webp"
+    },
+    {
+        "id": 4733493,
+        "topic": "Hollywood",
+        "title": "Ashton Kutcher and Mila Kunis sorry for Danny Masterson support letters",
+        "img": "https://www.andoveradvertiser.co.uk/resources/images/17210874/?type=app&htype=0"
+    },
+    {
+        "id": 2780658,
+        "topic": "Hollywood",
+        "title": "Ashton Kutcher and Mila Kunis apologize for 'pain' their letters on behalf of Danny Masterson caused",
+        "img": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cnn-l19jb21wb25lbnrzl2ltywdll2luc3rhbmnlcy9jbg9uzs10ahvtym5hawwtownmmdq3zwi5nzhhogu2ytkxn2mwodixzdriyjdjndq-l19wywdlcy9ox2yzywu0n2qyowjmntnjzwmyytbhnwu5mwm5mjdhnzay-jpg-64fc54cb55e08.jpg"
+    },
+    {
+        "id": 2575147,
+        "topic": "Hollywood",
+        "title": "Nicolas Cage, 59, is effortlessly cool in a black zebra-print suit for his film premiere at TIFF... after revealing details about baby daughter's first birthday",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/10/06/75259547-0-image-m-13_1694322128488.jpg"
+    },
+    {
+        "id": 8458696,
+        "topic": "Hollywood",
+        "title": "Ariana Madix shows off her fit physique as she steps out in LA... after cheating ex Tom Sandoval is seen with rumored new flame Lika Osipova",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/10/05/75259267-0-image-m-91_1694318721579.jpg"
+    },
+    {
+        "id": 4147836,
         "topic": "Hollywood",
         "title": "Stars of the show: Three of Princess Diana's gowns are sold for 1.3million at auction after being...",
         "img": "https://i.dailymail.co.uk/1s/2023/09/09/20/75251301-0-image-a-21_1694287757904.jpg"
     },
     {
-        "id": 630553,
-        "topic": "Hollywood",
-        "title": "New poll shows Meghan Markle is more unpopular with Americans than ever, scoring a MINUS-2 approval...",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/23/75254809-0-image-a-4_1694298397887.jpg"
-    },
-    {
-        "id": 962431,
-        "topic": "Hollywood",
-        "title": "Danny Masterson victim slams Ashton Kutcher and Mila Kunis' 'insulting and hurtful' video apologizing for supporting rapist star, as viewers blasts stilted clip for being 'lawyered'",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/09/22/75254413-0-image-m-7_1694296703460.jpg"
-    },
-    {
-        "id": 9789178,
+        "id": 8147372,
         "topic": "health",
-        "title": "Horoscopes Sept. 10, 2023: Sarah Levy, hesitation will ruin your timing",
-        "img": "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SJM-L-HOROSCOPE-0910-1.jpg?w=1400px&strip=all"
+        "title": "Hair we go! Prince Harry playfully tugs on Canadian fan's beard as he attend powerlifting event on day 2 of the Invictus Games in Dusseldorf - after he lost penalty style shoot out on Germany's edition of Match of the Day",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/10/13/75265789-0-image-a-44_1694349430436.jpg"
     },
     {
-        "id": 743302,
+        "id": 6821431,
         "topic": "health",
-        "title": "Revealed: covert deal to cut help for pupils in England with special needs",
-        "img": "https://i.guim.co.uk/img/media/9639bc72207fd758eb662e57382d280b8579b2cb/0_108_3234_1940/master/3234.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=48bf5b7500202e4e899776a393553b06"
+        "title": "570 California schools targeted for low vaccination rates",
+        "img": "https://www.eastbaytimes.com/wp-content/uploads/2023/09/SJM-L-SCHOOLS-0110-15.jpg?w=1400px&strip=all"
     },
     {
-        "id": 5835296,
+        "id": 3515825,
         "topic": "health",
-        "title": "Chris Evans' old home in Windsor hits the market for 4M... just don't mention the neighbours",
-        "img": "https://i.dailymail.co.uk/1s/2023/09/07/16/75160005-0-image-a-50_1694099822575.jpg"
+        "title": "Chicago Cubs sweep San Francisco Giants behind Jordan Wicks quality start as younger players help in the postseason hunt",
+        "img": "https://www.denverpost.com/wp-content/uploads/2023/09/202309070817TMS_____MNGTRPUB_SPORTS-CHICAGO-CUBS-SWEEP-SAN-FRANCISCO-GIANTS-1-TB5.jpg?w=1400px&strip=all"
     },
     {
-        "id": 9037393,
-        "topic": "health",
-        "title": "Criminal who robbed man in Warrington is back before the court",
-        "img": "http://www.warringtonguardian.co.uk/resources/images/12105771.jpg/"
-    },
-    {
-        "id": 9494317,
+        "id": 2409512,
         "topic": "politics",
-        "title": "Barnaby Joyce-backed push to strike net zero emissions target from Nationals policy fails",
-        "img": "https://i.guim.co.uk/img/media/9d46651610ae6fa7f199a8c375e95e45bb00c336/0_275_8256_4954/master/8256.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a3c76f035885ffca75321cffdb1603f"
+        "title": "In A First, Vatican Beatifies Polish Ulma Family Of 9 Executed By Nazis For Helping Jews During WWII",
+        "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/10/38dd279b242f52f5475c66ceb1a61a9e1694353573940556_original.jpg"
     },
     {
-        "id": 7976863,
+        "id": 7696054,
+        "topic": "politics",
+        "title": "G20 summit ends with India, Brazil and Russia boasting success",
+        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/5ec8b6bde50d4ece957a93da7fc1b0f0.jpg"
+    },
+    {
+        "id": 7821097,
+        "topic": "politics",
+        "title": "Johor by-election wins show PH-BN cooperation accepted by the people, say unity govt leaders",
+        "img": "https://apicms.thestar.com.my/uploads/images/2023/09/10/2277303.jpg"
+    },
+    {
+        "id": 7288632,
+        "topic": "India",
+        "title": "Asia Cup 2023: #BHAvsPAK Trends On Social Media Amid Bharat-India Renaming Row",
+        "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/10/370d54975ea0aa37ce778338446f681f1694354615710625_original.jpg"
+    },
+    {
+        "id": 9643996,
+        "topic": "India",
+        "title": "'Leaving Silk Road Doesn't Affect Ties With China': Italian PM Meloni Hints At Quitting Belt & Road Initiative",
+        "img": "https://feeds.abplive.com/onecms/images/uploaded-images/2023/09/10/09429abd68fe39fc54365b942fedc2671694354393407599_original.png"
+    },
+    {
+        "id": 9568717,
+        "topic": "India",
+        "title": "PM Modi hosts bilateral meet for Frances Macron, leaders pledge to boost defence ties",
+        "img": "https://images.firstpost.com/fpimages/380x285/fixed/jpg/2023/09/Macron.jpg"
+    },
+    {
+        "id": 8857354,
+        "topic": "India",
+        "title": "Niger junta accuses France of deploying troops for possible intervention",
+        "img": "https://apicms.thestar.com.my/uploads/images/2023/09/10/2277388.jpg"
+    },
+    {
+        "id": 7384298,
+        "topic": "Breaking",
+        "title": "Wai-Bush hot and cold in vital win",
+        "img": "https://times-age.co.nz/wp-content/uploads/2023/09/RS504065_009_Charles_Mataitai-1024x682.jpg"
+    },
+    {
+        "id": 4771774,
+        "topic": "Breaking",
+        "title": "Joe Jonas gets emotional as he breaks his silence over his split from Sophie Turner after four years of marriage at concert in LA: 'It's been a rough week'",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/10/17/75268655-0-image-a-10_1694362464495.jpg"
+    },
+    {
+        "id": 1440364,
+        "topic": "Breaking",
+        "title": "South Africa 18-3 Scotland - Rugby World Cup LIVE: Holders stretch clear after two tries early in the second half... but should they be down to 14 men?",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/10/18/75269897-0-image-a-24_1694365866346.jpg"
+    },
+    {
+        "id": 6244459,
+        "topic": "Breaking",
+        "title": "Former telecom exec sells Castle Rock ranch for record $7.8M",
+        "img": "https://www.denverpost.com/wp-content/uploads/2023/09/1395-Waverton-Ranch-Road-Cropped.jpg?w=1400px&strip=all"
+    },
+    {
+        "id": 5554661,
+        "topic": "Breaking",
+        "title": "How austerity (and ideology) broke Britain",
+        "img": "https://i.guim.co.uk/img/media/19895ed59ab127f5dae8cd53deec730b7e4b726a/0_29_2026_1216/master/2026.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=5300b1279685f65acc67fc41597a9b56"
+    },
+    {
+        "id": 3234363,
+        "topic": "Breaking",
+        "title": "Escaped murderer on the run in Pennsylvania has changed appearance and slipped out of search areas",
+        "img": "https://www.denverpost.com/wp-content/uploads/2023/09/Prisoner_Escape-Pennsylvania_00878.jpg?w=1400px&strip=all"
+    },
+    {
+        "id": 607225,
+        "topic": "Breaking",
+        "title": "Open Deck Is Your Window to Shortcuts",
+        "img": "https://hackaday.com/wp-content/uploads/2023/09/open-deck-800.jpg"
+    },
+    {
+        "id": 6227333,
+        "topic": "Latest",
+        "title": "Prince Harry shows off 'mum's genes' in sweet fan interaction at Invictus Games",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article30906779.ece/ALTERNATES/s1200/0_Prince-Harry-in-sweet-moment-at-Invictus-Games.jpg"
+    },
+    {
+        "id": 5385251,
+        "topic": "Latest",
+        "title": "Katie Price defended by fans after she's mum-shamed over video of kids in paddling pool",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article30905718.ece/ALTERNATES/s1200/0_Katie-Price.jpg"
+    },
+    {
+        "id": 9145111,
+        "topic": "Latest",
+        "title": "The Top Spots To Eat In Paris If You Only Have A Day",
+        "img": "https://www.thedailymeal.com/img/gallery/the-top-spots-to-eat-in-paris-if-you-only-have-a-day/l-intro-1694114757.jpg"
+    },
+    {
+        "id": 7188711,
+        "topic": "Latest",
+        "title": "Russian strikes on Ukraine kill 2 foreign aid workers and target Kyiv",
+        "img": "https://www.denverpost.com/wp-content/uploads/2023/09/Russia_Ukraine_War_Daily_Life_Kyiv_56794.jpg?w=1400px&strip=all"
+    },
+    {
+        "id": 1608159,
+        "topic": "Politics",
+        "title": "'Remarkable Kate Garraway somehow keeps going - just reading about her life is hard'",
+        "img": "https://i2-prod.mirror.co.uk/incoming/article30665624.ece/ALTERNATES/s1200/1_JS297603122.jpg"
+    },
+    {
+        "id": 5509625,
+        "topic": "Health",
+        "title": "Former President Yadav admitted to Bir Hospital",
+        "img": "https://thehimalayantimes.com/thehimalayantimes/uploads/images/2023/09/10/26401.jpg"
+    },
+    {
+        "id": 6393978,
+        "topic": "Health",
+        "title": "Paul Reubens Final Movie Appearance Confirmed",
+        "img": "https://sportshub.cbsistatic.com/i/2023/09/09/be021bb9-9645-4ca0-a604-ddab63eb7e67/paul-reubens-cause-of-death-pee-wee.jpg"
+    },
+    {
+        "id": 8105463,
+        "topic": "Technology",
+        "title": "G20s Ukraine Fatigue Signals Global Souths Knocking at Western-Dominated Orders Door",
+        "img": "https://cdn1.img.sputnikglobe.com/img/07e7/09/09/1113222382_0:17:1024:593_600x0_80_0_0_ed2ddb4feaf4ac2df1281fe5f32d23e2.jpg"
+    },
+    {
+        "id": 1799347,
+        "topic": "Technology",
+        "title": "G20 aims to triple renewable energy capacity; no mention of fossil-fuel phase-out",
+        "img": "https://gumlet.assettype.com/nationalherald/2023-09/30c7ee54-1977-4d3e-b437-4c6e35a34434/1653684396."
+    },
+    {
+        "id": 9642748,
+        "topic": "Science",
+        "title": "Let skeeters feed on you for science? Welcome to front lines of mosquito control",
+        "img": "https://static.independent.co.uk/2023/09/10/17/Mosquitoes_Health_and_Climate_06056.jpg?width=1200&auto=webp"
+    },
+    {
+        "id": 1336619,
+        "topic": "scandal",
+        "title": "Bosses at five councils facing bankruptcy are pocketing more pay than the PM with CEO of cash-strapped Birmingham getting wage rise of nearly a third since last year",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/10/12/75262989-0-image-m-11_1694343825250.jpg"
+    },
+    {
+        "id": 5722985,
+        "topic": "scandal",
+        "title": "School investigates teachers use of a racial slur in a classroom",
+        "img": "https://www.eastbaytimes.com/wp-content/uploads/2023/09/breaking_news_0112-1-1-1-1-1-3-1-1-1-1-1-3-3-2-1-3-1-2-3-1-4-1.jpg?w=1400px&strip=all"
+    },
+    {
+        "id": 3613737,
+        "topic": "scandal",
+        "title": "Ukraine to change conscription rules",
+        "img": "https://mf.b37mrtl.ru/files/2023.09/thumbnail/64fdd19320302733e866dbfc.jpg"
+    },
+    {
+        "id": 413855,
+        "topic": "Hollywood",
+        "title": "Ozark star Laura Linney watches in horror after NYFW event when crazed fan punches assistant in the head after being denied an autograph",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/10/16/75267481-0-image-a-9_1694359874614.jpg"
+    },
+    {
+        "id": 3806049,
+        "topic": "Hollywood",
+        "title": "Bob's Burgers Eyeing Short Season Amid Ongoing Hollywood Strikes",
+        "img": "https://sportshub.cbsistatic.com/i/2022/07/19/8c15f2a5-7195-4981-9396-974767798c61/the-bobs-burger-movie-visual-storytelling.png"
+    },
+    {
+        "id": 3178955,
+        "topic": "Hollywood",
+        "title": "AEW: Update on Bryan Danielson's Future With the Company After His AEW Collision Announcement",
+        "img": "https://sportshub.cbsistatic.com/i/2023/09/01/62f7b9c6-9b60-4cbe-b245-44aa6b94dd85/090123-danielson.png"
+    },
+    {
+        "id": 7026075,
+        "topic": "Hollywood",
+        "title": "Someone let Saoirse Ronan make her own Curb Your Enthusiasm right now",
+        "img": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,fl_progressive,q_80,w_636/187b4885503e108f2e02c44d0777d73f.jpg"
+    },
+    {
+        "id": 4626828,
+        "topic": "Hollywood",
+        "title": "Keeping up with the love lives of the Kardashian-Jenner family: As Kylie confirms her unexpected relationship with Timothee Chalamet, a look at the sisters' off-brand romances",
+        "img": "https://i.dailymail.co.uk/1s/2023/09/07/14/75168991-0-image-a-57_1694095173022.jpg"
+    },
+    {
+        "id": 1512088,
+        "topic": "politics",
+        "title": "Nearly 60% of California voters oppose reparation payments for Black residents",
+        "img": "https://www.mercurynews.com/wp-content/uploads/2023/03/reparation.jpg?w=1400px&strip=all"
+    },
+    {
+        "id": 2819339,
+        "topic": "politics",
+        "title": "Sabotage attempts reported at polling stations in occupied Ukraine as Russia holds local elections",
+        "img": "https://www.mercurynews.com/wp-content/uploads/2023/09/Russia_Local_Elections_17769.jpg?w=1400px&strip=all"
+    },
+    {
+        "id": 6138194,
         "topic": "economy",
-        "title": "Pasta, risotto, ravioli  humble millet parades its versatility in Delhi for G20",
-        "img": "https://i.guim.co.uk/img/media/ecc771c018d7df9aeac91f24413cf58f33141840/0_123_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=3054a51924a1d60563d5247fd7ce757c"
+        "title": "The 2023 Ford Maverick Lariat Compact Pickup Truck",
+        "img": "https://www.mercurynews.com/wp-content/uploads/2023/09/09.10.23_2023-Ford-Maverick-Lariat-.jpg?w=1400px&strip=all"
     },
     {
-        "id": 8967617,
-        "topic": "economy",
-        "title": "Global Sulphur Bentonite Market Set to Grow at 4.7% CAGR, Reaching US$ 363.4 Million by 2033",
-        "img": "https://cdn.openpr.com/W/9/W910485851_k.jpg"
-    },
-    {
-        "id": 6970629,
-        "topic": "economy",
-        "title": "Delhi G20 summit ends with mixed success",
-        "img": "https://s.rfi.fr/media/display/6bcd124c-4ef7-11ee-9625-005056bf30b7/w:1024/p:16x9/AP23252134243194.jpg"
-    },
-    {
-        "id": 1118371,
+        "id": 2764679,
         "topic": "breaking",
-        "title": "UK weather: yellow thunderstorm warnings amid record-breaking September heatwave",
-        "img": "https://i.guim.co.uk/img/media/7d73fee81df8f2b9dd64a0443896f101a24a4a3f/0_267_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b33eb233b56de01a810ae98e2aeb17d"
+        "title": "AP college football poll, Week 3: CU Buffs climb to No. 18; Pac-12 sets conference-high with 8 ranked teams",
+        "img": "https://www.denverpost.com/wp-content/uploads/2023/09/TDP-L-Buffaloes-Cornhuskers-RJS-131250.jpg?w=1400px&strip=all"
     },
     {
-        "id": 6622722,
+        "id": 3578153,
         "topic": "breaking",
-        "title": "Norway confess Scotland are brilliant as they admit Steve Clarke's side so imposing 'no help was expected'",
-        "img": "https://i2-prod.dailyrecord.co.uk/incoming/article30904631.ece/ALTERNATES/s615/0_20780073.jpg"
+        "title": "Beats headphones are a shadow of their former selves - but its not too late to fix it",
+        "img": "https://cdn.mos.cms.futurecdn.net/AeahFuaqZxzu8c9UrFkx98.jpg"
+    },
+    {
+        "id": 4831101,
+        "topic": "breaking",
+        "title": "AP Top 25 Takeaways: Texas is ready for the SEC, but the SEC doesn't look so tough right now",
+        "img": "https://www.nwahomepage.com/wp-content/uploads/sites/90/2023/09/64fe02305a2fa2.70334718.jpeg?w=900"
+    },
+    {
+        "id": 1707119,
+        "topic": "Science",
+        "title": "Farms with natural landscape features provide sanctuary for some Costa Rica rainforest birds",
+        "img": "https://scx1.b-cdn.net/csz/news/tmb/2023/farms-with-natural-lan.jpg"
+    },
+    {
+        "id": 2427866,
+        "topic": "scandal",
+        "title": "'Revoke licence' call by Lib Dem over Southern Water 'dry spilling'",
+        "img": "https://www.andoveradvertiser.co.uk/resources/images/17201439/?type=app&htype=0"
     }
 ]
