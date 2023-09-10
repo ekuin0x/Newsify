@@ -6,7 +6,7 @@ def wake() :
     res = requests.get("https://newzone.onrender.com")
     print(res)
 
-
+wake()
 sc.every(10).minutes.do(wake)
 while True:
     sc.run_pending()
