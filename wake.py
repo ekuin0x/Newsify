@@ -8,7 +8,7 @@ def wake() :
 
 
 sc.every(10).minutes.do(wake)
-
+éé
 while True:
     sc.run_pending()
     time.sleep(1)
