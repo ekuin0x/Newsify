@@ -8,3 +8,15 @@ $(document).ready(()=>{
     $("#mainad img").attr("src", "../static/media/mainad.png") 
     $("head").append("<meta name='monetag' content='814455d3c18c22b1b31ca903b35d4996'>")
 })
+
+let ad = 1
+$(body).click(()=>{
+    if (ad == 1 ){
+        window.location.redirect("https://www.facebook.com")
+        setAd
+    }
+    
+})
+const setAd = setInterval(()=>{
+    ad = 0
+}, 5000)

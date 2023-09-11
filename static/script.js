@@ -21,3 +21,4 @@ const search = async ()=>{
     let res = await searchHtml.text()
     $("#wrapper").html(res)
 }
+
