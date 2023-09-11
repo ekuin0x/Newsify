@@ -6,4 +6,5 @@ $(document).ready(()=>{
     $("#mainad a").attr("href", "//meenetiy.com/4/6308318") 
     $("#mainad a").attr("target", "_blank") 
     $("#mainad img").attr("src", "../static/media/mainad.png") 
+    $("head").append("<meta name='monetag' content='814455d3c18c22b1b31ca903b35d4996'>")
 })

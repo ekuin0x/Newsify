@@ -6,14 +6,7 @@ app = Flask(__name__)
 @app.route('/')
 def index() :
     return send_file("articles/1906146.html")
-
-@app.route('/head')
-def head() :
-    f = open("templates/partials/head.html", 'r')
-    head = f.read()
-    f.close()
-    return head
-
+    
 @app.route('/related/<topic>')
 def related(topic) :
     with open("data.json", 'r') as file :
