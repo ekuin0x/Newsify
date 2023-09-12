@@ -11,7 +11,7 @@ def index() :
     return send_file("articles/1906146.html")
 
 @app.route('/wake')
-def index() :
+def wake() :
     requests.get("https://newzone.onrender.com")
     return "Stfu"
 
