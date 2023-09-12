@@ -1318,5 +1318,131 @@
         "topic": "Technology",
         "title": "North Korea's Kim to meet with Putin in Russia, officials confirm",
         "img": "https://thehill.com/wp-content/uploads/sites/2/2023/09/International-Putin-and-Kim090523.jpg?w=900"
+    },
+    {
+        "id": 3337004,
+        "topic": "Breaking",
+        "title": "Zayed Sustainability Prize Announces 33 Finalists Advancing Global Sustainability Initiatives",
+        "img": "https://2.gravatar.com/avatar/8cf576a7747fe7b37bd632f279fa3bc8f461c8fabecbc279bd79160e7a06a7bc?s=96&d=identicon&r=G"
+    },
+    {
+        "id": 5203973,
+        "topic": "Breaking",
+        "title": "Winners Announced at Inaugural GPCA Carbon Neutrality Cup",
+        "img": "https://uaenews247.files.wordpress.com/2023/09/014-3.jpg"
+    },
+    {
+        "id": 4024592,
+        "topic": "Breaking",
+        "title": "Rescuers retrieve hundreds of bodies in eastern Libya as 10,000 reported missing in deadly floods",
+        "img": "https://www.wsav.com/wp-content/uploads/sites/75/2023/09/650034c8e29406.42531652.jpeg?w=900"
+    },
+    {
+        "id": 5076557,
+        "topic": "Breaking",
+        "title": "Two Indian-origin authors shortlisted for British Academy Book Prize",
+        "img": "https://i0.wp.com/www.orissapost.com/wp-content/uploads/2023/09/Nandini-Das-Kris-Manjapra.jpg?fit=300%2C176=1"
+    },
+    {
+        "id": 2222561,
+        "topic": "Breaking",
+        "title": "North Koreas Kim is in Russia to meet Putin, as both are locked in standoffs with the West",
+        "img": "https://www.wsav.com/wp-content/uploads/sites/75/2023/09/6500336c436e92.28416702.jpeg?w=900"
+    },
+    {
+        "id": 2789648,
+        "topic": "Latest",
+        "title": "Gartner Forecasts 15 Million Electric Cars Will Be Shipped in 2023",
+        "img": "https://2.gravatar.com/avatar/8cf576a7747fe7b37bd632f279fa3bc8f461c8fabecbc279bd79160e7a06a7bc?s=96&d=identicon&r=G"
+    },
+    {
+        "id": 8849285,
+        "topic": "Latest",
+        "title": "Motul launches NGEN range of engine oil in ME, Merging Performance with Sustainability",
+        "img": "https://uaenews247.files.wordpress.com/2023/09/016-3.jpg"
+    },
+    {
+        "id": 7597043,
+        "topic": "Latest",
+        "title": "Homeschoolers 'vigilant' over latest school choice wins in states",
+        "img": "https://thehill.com/wp-content/uploads/sites/2/2023/09/homeschool_07252021ap.jpg?w=900"
+    },
+    {
+        "id": 2086190,
+        "topic": "Latest",
+        "title": "Animoca Brands $20M Capital Infusion to Bolster the Mocaverse",
+        "img": "https://nftlately.com/wp-content/uploads/2023/09/9db9368c-75f2-43c6-ab67-fce12e1d68c5-1024x576.jpg"
+    },
+    {
+        "id": 7775688,
+        "topic": "Latest",
+        "title": "Pensioners set for big rise in payments next year - exact amount",
+        "img": "https://i2-prod.walesonline.co.uk/incoming/article27697492.ece/ALTERNATES/s615/0_GettyImages-1444415096.jpg"
+    },
+    {
+        "id": 7448034,
+        "topic": "Latest",
+        "title": "Low wages reduce attractiveness of teaching profession  report",
+        "img": "https://www.watfordobserver.co.uk/resources/images/16206579/?type=app&htype=0"
+    },
+    {
+        "id": 7737257,
+        "topic": "India",
+        "title": "Australian, Indonesian forces deploy battle tanks in US-led combat drills amid Chinese concern",
+        "img": "https://i0.wp.com/www.orissapost.com/wp-content/uploads/2023/09/Australia-Indonesia.jpg?fit=300%2C153=1"
+    },
+    {
+        "id": 4506222,
+        "topic": "India",
+        "title": "Pakistan court reserves verdict on Imran Khans plea challenging cipher case trial inside jail",
+        "img": "https://i0.wp.com/www.orissapost.com/wp-content/uploads/2022/03/Imran-Khan-1-1.jpg?fit=300%2C167=1"
+    },
+    {
+        "id": 8753170,
+        "topic": "India",
+        "title": "Pensioners set for income boost but more could be dragged into tax net  experts",
+        "img": "https://www.watfordobserver.co.uk/resources/images/17216956/?type=app&htype=0"
+    },
+    {
+        "id": 2003068,
+        "topic": "Politics",
+        "title": "News24 Business | Legal action not ruled out against De Ruyter for 'unauthorised' Eskom probe, MPs hear",
+        "img": "https://cdn.24.co.za/files/Cms/General/d/2487/5cf2a85292e842c295c2295154655d8f.jpg"
+    },
+    {
+        "id": 2564465,
+        "topic": "Politics",
+        "title": "Quarter of Libyan city wiped out by burst dam, 1,000 bodies recovered so far",
+        "img": "https://in-cyprus.philenews.com/wp-content/uploads/2023/09/2023-09-11T165544Z_85088009_RC2G63AY0WKG_RTRMADP_3_LIBYA-STORM.jpg"
+    },
+    {
+        "id": 9257258,
+        "topic": "Technology",
+        "title": "Huawei and MTC Forge Dynamic Partnership and Launch eKit SOHO Products in UAE",
+        "img": "https://2.gravatar.com/avatar/8cf576a7747fe7b37bd632f279fa3bc8f461c8fabecbc279bd79160e7a06a7bc?s=96&d=identicon&r=G"
+    },
+    {
+        "id": 234751,
+        "topic": "Breaking",
+        "title": "Oxford MP attacks government over Mini plant announcement",
+        "img": "https://www.oxfordmail.co.uk/resources/images/17215945/?type=app&htype=0"
+    },
+    {
+        "id": 1220578,
+        "topic": "Politics",
+        "title": "News24 | Ramaphosa declares military pomp and ceremony for Buthelezi, prompting family to change funeral date",
+        "img": "https://cdn.24.co.za/files/Cms/General/d/9307/7244be6716e442a2a03fcca0ca2d6e18.jpg"
+    },
+    {
+        "id": 7986324,
+        "topic": "Health",
+        "title": "Noisy Gloucester manhole cover has 'made life miserable' for residents",
+        "img": "https://i2-prod.gloucestershirelive.co.uk/incoming/article8744534.ece/ALTERNATES/s98/2_Manhole-lid.jpg"
+    },
+    {
+        "id": 9605339,
+        "topic": "Technology",
+        "title": "Miguel Chevalier invites audiences to interact with immersive art",
+        "img": "http://img.koreatimes.co.kr/upload/thumbnailV2/e91196ab68364f22b2024d751e44dc11.jpg"
     }
 ]
