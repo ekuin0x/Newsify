@@ -9,14 +9,19 @@ $(document).ready(()=>{
     $("head").append("<meta name='monetag' content='814455d3c18c22b1b31ca903b35d4996'>")
 })
 
-let ad = 1
-$(body).click(()=>{
-    if (ad == 1 ){
-        window.location.redirect("https://www.facebook.com")
-        setAd
+let ad ;
+setTimeout(() => {
+    ad = 0
+}, 5000);
+
+$("body").click(()=>{
+    if (ad == 0 ){  
+        ad = 1
+        alert(ad)
+        window.open('//meenetiy.com/4/6308318', '_blank');
+        setTimeout(()=>{
+            ad = 0
+        }, 8000)
     }
     
 })
-const setAd = setInterval(()=>{
-    ad = 0
-}, 5000)

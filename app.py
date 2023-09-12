@@ -3,12 +3,20 @@ from flask import Flask , render_template, url_for, request, send_file
 import schedule as sc
 import requests
 import time
+
 app = Flask(__name__)
 
 @app.route('/')
 def index() :
     return send_file("articles/1906146.html")
-    
+
+@app.route('/wake')
+def index() :
+    requests.get("https://newzone.onrender.com")
+    return "Stfu"
+
+
+
 @app.route('/related/<topic>')
 def related(topic) :
     with open("data.json", 'r') as file :

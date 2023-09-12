@@ -3,7 +3,7 @@ import requests
 import time
 
 def wake() : 
-    res1 = requests.get("https://newzone.onrender.com")
+    
 
 wake()
 sc.every(10).minutes.do(wake)
