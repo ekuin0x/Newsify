@@ -7,10 +7,7 @@
    
 })()
 
-const search = async ()=>{
-    let query = $("#query").val()
-    let searchHtml = await fetch('/search/' + query )
-    let res = await searchHtml.text()
-    $("#wrapper").html(res)
-}
-
+$(document).ready(()=>{
+    $("form").attr("action", "javascript:void(0);")
+    $("button").attr("type", "submit") 
+})
