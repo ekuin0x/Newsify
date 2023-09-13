@@ -7,13 +7,6 @@
    
 })()
 
-
-
-$(document).ready(()=>{
-    $("head").prepend(head)  
-})
-
-
 const search = async ()=>{
     let query = $("#query").val()
     let searchHtml = await fetch('/search/' + query )

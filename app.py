@@ -12,6 +12,17 @@ def index() :
         data = json.load(file)
         return render_template("index.html", data = data[0:12])
 
+@app.route('/<sub>')
+def sub(sub) :
+    arr = []
+    with open("data.json", 'r') as file :
+        data = json.load(file)
+        for x in data : 
+            if x["topic"] == sub :
+                arr.append(x)
+        return render_template("index.html", data = arr[0:20])
+
+
 
 @app.route('/related/<topic>')
 def related(topic) :
