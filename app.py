@@ -8,13 +8,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def index() :
-    return send_file("articles/1906146.html")
-
-@app.route('/wake')
-def wake() :
-    requests.get("https://newzone.onrender.com")
-    return "Stfu"
-
+    with open("data.json", 'r') as file :
+        data = json.load(file)
+        return render_template("index.html", data = data[0:12])
 
 
 @app.route('/related/<topic>')

@@ -48,13 +48,30 @@
 
 
     <div id="wrapper">
-        <div id="main">
-           
-          <div class="search">
-            <img src="/static/media/test.jpg" alt="">
-            <p>MPs have tried to kill themselves  ex-minister on mental health in Parliament</p>
+        <div id="index">
+           <header>TOP NEWS</header>
+
+           {% for d in data %}
+
+           <div class="index">
+            <img src="{{d['img']}}" alt="">
+            <p>{{ d['title'] }}</p>
+            <b><a href="/articles/{{d['id']}}">Read More</a></b>
           </div>
 
+           {% endfor %}
+
+           <!--
+          <div class="index">
+            <img src="/static/media/test.jpg" alt="">
+            <p>MPs have tried to kill themselves  ex-minister on mental health in Parliament</p>
+            <b>Read More</b>
+          </div>
+          -->
+          
+
+         
+    
         </div>
         </div>
 
