@@ -5,7 +5,7 @@ import requests
 import time
 import random
 
-topics = [ "Breaking", "Latest", "India", "Politics", "Health", "Technology"]
+topics = [ "Global", "Sport","Politics", "India", "latest", "Health", "Technology"]
 key = "pub_265336ee2696ca69ba98f092f4122499822c6"
 
 app = Flask(__name__)
