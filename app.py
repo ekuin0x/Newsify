@@ -5,9 +5,9 @@ import requests
 import time
 import random
 
-topics = [ "Global", "Sport","Politics", "India", "latest", "Health", "Technology"]
-key = "pub_265336ee2696ca69ba98f092f4122499822c6"
-
+topics = [ "Global", "Sport","Politics", "India", "Latest", "Health", "Technology"]
+#key = "pub_265336ee2696ca69ba98f092f4122499822c6"
+key = "pub_277439a73bbbb0d3aa7c80b32ebc7e246d8d4"
 app = Flask(__name__)
 
 @app.route('/')
