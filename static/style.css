@@ -135,8 +135,8 @@ header{
     margin: 15px 0;
 }
 .index img{
-    width: 180px !important;
-    height: 180px !important;
+    width: 160px !important;
+    height: 100% !important;
     margin: 0 !important;
 }
 .index p{
