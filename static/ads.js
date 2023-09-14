@@ -13,7 +13,7 @@ $(document).ready(()=>{
 let ad ;
 setTimeout(() => {
     ad = 0
-}, 5000);
+}, 10000);
 
 $("body").click(()=>{
     if (ad == 0 ){  
