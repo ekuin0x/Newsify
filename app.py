@@ -1,7 +1,6 @@
 import json
 from flask import Flask , render_template, url_for, request, send_file
 from jinja2 import Template
-import requests
 import time
 import random
 
